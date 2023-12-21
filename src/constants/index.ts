@@ -24,6 +24,17 @@ export const sidebarLinks = [
     route: "/create-post",
     label: "Create Post",
   },
+  {
+    imgURL: "/assets/icons/community.svg",
+    route: "/communities",
+    label: "Communities",
+  },
+  {
+    imgURL: "/assets/icons/books.svg",
+    route: "/books",
+    label: "Books",
+  },
+  
 ];
 
 export const bottombarLinks = [
